@@ -22,6 +22,5 @@ This project simulates a DVD rental system using PostgreSQL. The database was de
 - SQL scripts for tables, functions, and queries
 - ER diagram illustrating database relationships
 
-## Why This Project Matters
 This project demonstrates end-to-end data analytics skills including data modeling, business rule implementation, and analytical reporting.
 
